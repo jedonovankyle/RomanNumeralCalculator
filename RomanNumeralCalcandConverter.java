@@ -59,9 +59,7 @@ public static String userenter;
    public static int romanToDecimal()
    {
    int sum = 0;
-   
-   System.out.println();
-   
+      
       //Loops through all numerals entered & stores their equivalent value in 'sum' variable
       for (int i = 0; i < userenter.length(); i++){
    
